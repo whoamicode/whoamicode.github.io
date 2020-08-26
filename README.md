@@ -1,5 +1,3 @@
-
-
 ## Welcome to "Who am I, Code?" initiative (WIP)
 
 "Who am I, code?" is an initiative to help anyone to start a project without afraid off.
@@ -23,14 +21,14 @@ Doesn't matter the necessity. What we're considering essential is that this proj
 This initiative is composed of some project that works similarly. The purpose is that the only change is the codebase.  
 
 For now, we have these projects working
-- Node 
-- Go
+- [Node](https://github.com/marcopollivier/whoaminode)
+- [Go](https://github.com/marcopollivier/whoamigo)
 
 These in WIP status 
-- Clojure
+- [Clojure](https://github.com/marcopollivier/whoamiclojure)
 
 And this to the future 
-- Java
+- [Java](https://github.com/marcopollivier/whoamivertx)
 
 These projects there're in common: 
 - [Docker](https://www.docker.com/get-started) as a container manager;
@@ -41,3 +39,8 @@ These projects there're in common:
 
 
 So... this doc is a WIP work... we'll update it soon with more information. See you :) 
+
+[![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")](https://github.com/marcopollivier/whoamiclojure)
+[![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")](https://github.com/marcopollivier/whoamigo)
+[![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")](https://github.com/marcopollivier/whoamivertx)
+[![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")](https://github.com/marcopollivier/whoaminode)
