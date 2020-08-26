@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/marcopollivier/whoamicode/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to "Who am I, Code?" initiative (WIP)
 
-### Markdown
+"Who am I, code?" is an initiative to help anyone to start a project without afraid off.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who this project is for
 
-```markdown
-Syntax highlighted code block
+So ... anyone, but I think this project can help in different ways depending on the need and the knowledge level.
 
-# Header 1
-## Header 2
-### Header 3
+For example:
 
-- Bulleted
-- List
+- Beginners on the software development world can use to understand how they can create a basic project using a usual structure (Docker, Continuous integration with a basic pipeline, integration with Github, etc)
 
-1. Numbered
-2. List
+- Another one can use this project to test something as if your local environment is working well or whatever they need.
 
-**Bold** and _Italic_ and `Code` text
+- So... or if only is needing to save time during the creation of a basic project.
 
-[Link](url) and ![Image](src)
-```
+Doesn't matter the necessity. What we're considering essential is that this project helps someone for something.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## About the initiative 
 
-### Jekyll Themes
+This initiative is composed of some project that works similarly. The purpose is that the only change is the codebase.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcopollivier/whoamicode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For now, we have these projects working
+- Node 
+- Go
 
-### Support or Contact
+These in WIP status 
+- Clojure
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And this to the future 
+- Java
+
+These projects there're in common: 
+- [Docker](https://www.docker.com/get-started) as a container manager;
+- [DockerHub](https://hub.docker.com/r/marcopollivier/whoami) as the registry to the image;
+- [CircleCI](https://circleci.com/product/#how-it-works) as the Continuous Integration manager; 
+- [Github](https://docs.github.com/en/github/getting-started-with-github) as the Git client and host.
+
+
+
+So... this doc is a WIP work... we'll update it soon with more information. See you :) 
