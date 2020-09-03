@@ -24,10 +24,10 @@ For now, we have these projects working
 - [Node](https://github.com/marcopollivier/whoaminode)
 - [Go](https://github.com/marcopollivier/whoamigo)
 
-These in WIP status 
+This in WIP status 
 - [Clojure](https://github.com/marcopollivier/whoamiclojure)
 
-And this to the future 
+And this to the future
 - [Java](https://github.com/marcopollivier/whoamivertx)
 
 These projects there're in common: 
