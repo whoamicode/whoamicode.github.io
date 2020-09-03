@@ -1,6 +1,9 @@
-# Who am I, Code?
-
 ## Welcome to "Who am I, Code?" initiative (WIP)
+
+[![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")](https://github.com/marcopollivier/whoamiclojure)
+[![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")](https://github.com/marcopollivier/whoamigo)
+[![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")](https://github.com/marcopollivier/whoamivertx)
+[![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")](https://github.com/marcopollivier/whoaminode)
 
 "Who am I, code?" is an initiative to help anyone to start a project without afraid off.
 
@@ -41,8 +44,3 @@ These projects there're in common:
 
 
 So... this doc is a WIP work... we'll update it soon with more information. See you :) 
-
-[![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")](https://github.com/marcopollivier/whoamiclojure)
-[![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")](https://github.com/marcopollivier/whoamigo)
-[![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")](https://github.com/marcopollivier/whoamivertx)
-[![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")](https://github.com/marcopollivier/whoaminode)
